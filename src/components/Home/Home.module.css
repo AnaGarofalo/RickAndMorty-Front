@@ -1,0 +1,7 @@
+.container {
+  margin-bottom: 2em;
+  padding: 2em;
+  align-items: center;
+  border-radius: 10px;
+  min-height: 80vh;
+}
