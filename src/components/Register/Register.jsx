@@ -36,7 +36,7 @@ const Register = () => {
     if (!errors.username && !errors.password) {
       try {
         await registerUser(userData);
-        navigate(0);
+        navigate("/");
       } catch (error) {
         window.alert(error.response.data.error);
       }
