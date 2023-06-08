@@ -3,5 +3,5 @@
 // const URL_BASE = "https://rickandmorty-back.onrender.com/rickandmorty";
 
 const URL_BASE =
-  "http://rickandmorty-back-production.up.railway.app/rickandmorty";
+  "https://rickandmorty-back-production.up.railway.app/rickandmorty";
 export default URL_BASE;
